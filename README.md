@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briyaphilip
 - 👀 I’m interested in UX Design/Engineering and creative technology
-- 🌱 I’m currently a sophomore @ Spelman College
+- 🌱 I’m currently a junior @ Spelman College
 - 📫 How to reach me: briya.philip@yahoo.com
 
 <!---
